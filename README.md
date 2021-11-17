@@ -39,17 +39,6 @@
 ![husky](https://img.shields.io/badge/Husky-b0b0d5?style=for-the-badge)
 
 
-<details>
-<summary>Stats 📈</summary>
-<div align="start">
-    <br>
-
-  <img align="left" width="450" src="https://github-readme-stats.vercel.app/api?username=pedrohotz&show_icons=true&theme=radical&count_private=true&hide=stars,issues" />
-  <br>
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrohotz&show_icons=true&layout=compact&theme=radical" />
-
-</div>
-</details>
 <div align="center">
 <br>
 <h1 align="center">Contact me</h1>
@@ -58,6 +47,16 @@
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pedrohotz2002@gmail.com)
 
 </div>
+
+<h1 align="center">Stats 📈</h1>
+<div align="center">
+    <br>
+  <img align="left" width="450" src="https://github-readme-stats.vercel.app/api?username=pedrohotz&show_icons=true&theme=radical&count_private=true&hide=stars,issues" />
+  <br>
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrohotz&show_icons=true&layout=compact&theme=radical" />
+</div>
+
+
 
 
 
