@@ -4,7 +4,6 @@
   
   <p>- <a href='https://www.driven.com.br/'><img width='15px' src='https://www.driven.com.br/wp-content/uploads/2021/07/logo-footer.svg' alt="Driven Education" /></a>  Web Development Student at Driven Education</p>
   <p>- 📚 Student of Information Systems at UNIACADEMIA and 🤖 Robotic Electrical Engineering at UFJF </p>
-  <p>- 👱‍♂️ Im 19 yo</p>
 </div>
 
 <br>
