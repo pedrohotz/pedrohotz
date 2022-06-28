@@ -2,6 +2,7 @@
 
 <div align="flex-start">
   <p>- 📚 Student of Information Systems at UNIACADEMIA and 🤖 Robotic Electrical Engineering at UFJF </p>
+  <p>- Currently working as junior software engineer at SuperBid </p>
 </div>
 
 <br>
